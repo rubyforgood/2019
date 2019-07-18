@@ -19,7 +19,7 @@ This is the companion application to the diaper app. The diaper app is an invent
 Voices of Consent is a nonprofit organization whose mission is to provide healing to victims, bring awareness to sexual assault, transform society’s response to victims, define what consent is. Based in Washington, DC, this nonprofit operates in 48 states to help survivors in the aftermath of a traumatic event by sending survivor boxes to anyone who requests one free of charge. Boxes are personalized and put together to let survivors know they are not alone after an event and can help provide support as they begin the recovery process including information about laws in their state, free health and counseling services in their area, and other tools and resources needed to start the healing journey. Voices of Consent gets the word out to survivors by talking at schools and churches. The boxes are sent to survivors who request them directly or can be picked up at hospitals or police stations.
 
 * Github: https://github.com/rubyforgood/voices-of-consent
-* Slack channel: Coming Soon!
+* Slack channel: [#voices-of-consent](https://rubyforgood.slack.com/messages/CKVV0RT96)
 
 ### Coral
 
