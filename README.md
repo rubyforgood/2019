@@ -7,13 +7,11 @@ Each month over 350,000 children are helped by diaper banks, forgoing their pare
 * Github: https://github.com/orgs/rubyforgood/teams/diaper/repositories
 * Slack channel: #diaper 
 
-### Diaper Partner
+### Partnerbase
 
-Diaper Partner is a CRM tool designed to help diaper bank partners get diapers to those in need efficiently. Diaper partners are the public facing side of the diaper bank pipeline. As such, diaper partners need an effective way to track diapers from diaper bank all the way through to child recipient and be able to report back to diaper banks.
+This is the companion application to the diaper app. The diaper app is an inventory management system and this partner application handles the onboarding, approving, and handling of requests from diaper banks from their partners. Diaper banks do not distribute diapers directly to the public. They distribute diapers to partners like women's shelters, food pantries, homeless shelters, and other organizations. The partnerbase application is used by the great organizations to track individuals and interface with Diaperbase.
 
-We’ll be building a multi-tenant system to allow approved diaper bank partners to track their clients (children), fill diaper orders, distribute diaper donations, and report on crucial data points. Diaper Partner will work in tandem with DiaperBase to complement its diaper bank inventory tracking and order fullfillment system via APIs.
-
-* GitHub: https://github.com/orgs/rubyforgood/teams/diaper-partner/repositories
+* GitHub: https://github.com/orgs/rubyforgood/teams/partner/repositories
 * Slack channel: #diaper-partner
 
 ### Voices of Consent
