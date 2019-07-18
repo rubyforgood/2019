@@ -26,7 +26,9 @@ Voices of Consent is a nonprofit organization whose mission is to provide healin
 ### Coral
 
 * Github: https://github.com/rubyforgood/coral
-* Slack channel: Coming Soon!
+* Slack channel: #coralgardeners
+
+Coral Gardeners is an NGO based in Mo’orea, French Polynesia. Their work revolves around two main areas. First, they are educating adults and children about coral reefs, why they are important and the threats that the reefs face. Second, they use the process of coral gardening to restore reefs by planting healthy coral fragments back onto the reef. Currently, their work takes place primarily on the reef near Mo'orea, which has been heavily impacted. Coral adoptions are a key source of donations for the organization. Each coral adoption is unique and comes with a certificate that provides a picture of the coral, its name and its GPS coordinates. Currently, they produce these certificates in Photoshop with staff spending a significant amount of time on them. The time spent on these, while important, takes away from time they could be spending on work directly related to their mission. This project would automate the process of creating the certificates with the unique information for each coral.
 
 ### Abalone
 
@@ -36,4 +38,6 @@ Voices of Consent is a nonprofit organization whose mission is to provide healin
 ### Habitat for Humanity
 
 * Github: https://github.com/rubyforgood/habitatebsv
-* Slack channel: Coming Soon!
+* Slack channel: #habitatebsv
+
+Habitat for Humanity East Bay/Silicon Valley seeks to bring people together to build homes, communities and hope. Recognizing the affect that housing has on a community and on individuals, Habitat EB/SV provides programs and services to help make home ownership attainable. These services include home construction, housing counseling and providing home repair resources. Habitat for Humanity works extensively with volunteers and they are required to collect information from these volunteers on site. In many cases, this information is collected on paper forms. After a build day or other volunteer-based event, a staff member from the organization must spend time transcribing this information and entering it into their database. This takes a significant amount of time that could be spent helping in other areas of the organization. This project would improve the process of collecting the volunteer information and preparing it for entry/import into the appropriate databases.
