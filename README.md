@@ -39,3 +39,8 @@ Coral Gardeners is an NGO based in Mo’orea, French Polynesia. Their work revol
 * Slack channel: #habitatebsv
 
 Habitat for Humanity East Bay/Silicon Valley seeks to bring people together to build homes, communities and hope. Recognizing the affect that housing has on a community and on individuals, Habitat EB/SV provides programs and services to help make home ownership attainable. These services include home construction, housing counseling and providing home repair resources. Habitat for Humanity works extensively with volunteers and they are required to collect information from these volunteers on site. In many cases, this information is collected on paper forms. After a build day or other volunteer-based event, a staff member from the organization must spend time transcribing this information and entering it into their database. This takes a significant amount of time that could be spent helping in other areas of the organization. This project would improve the process of collecting the volunteer information and preparing it for entry/import into the appropriate databases.
+
+### Babywearing
+
+* Github: https://github.com/rubyforgood/babywearing
+* Slack channel: #babywearing
