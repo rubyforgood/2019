@@ -31,7 +31,10 @@ Coral Gardeners is an NGO based in Mo’orea, French Polynesia. Their work revol
 ### Abalone
 
 * Github: https://github.com/rubyforgood/abalone
-* Slack channel: Coming Soon!
+* Slack channel: #abalone
+Bodega Marine Laboratory’s white abalone captive breeding program is working to prevent the extinction of these white abalone.  White abalone are one of seven species found in California and are culturally significant to the native people of this area.  White abalone were perilously overfished throughout the 20th century, resulting in a 99 percent population decrease by the end of the 1970s.  This group is working to reverse all of that and have already seen some great success, they currently have more abalone in the lab than exist in the wild!
+
+Excited about their great success, the group was not prepared for the amount of data they wound up with.  So they are in great need of our help.  We will build a database to help them manage their data that will import and export.
 
 ### Habitat for Humanity
 
@@ -44,3 +47,6 @@ Habitat for Humanity East Bay/Silicon Valley seeks to bring people together to b
 
 * Github: https://github.com/rubyforgood/babywearing
 * Slack channel: #babywearing
+Midatlantic Babywearing (MAB) supports the wearing of babies and toddlers for all caregivers.  Babywearing has been shown to improve the bond between child and caregiver, lower stress levels in both the child and caregiver due to the oxytocin released from touch, allows caregivers to be more responsive to the child's cues, and it has been shown to have developmental and physical benefits for the child.
+
+MAB has a lending library, so that their members can try different types of cariers, and find what works best for their family.  They currently have software that works pretty well, but is a strain on their budget. The software will keep track of members & dues as well as the lending library items and their due dates.  We would like to use Twillo and send text reminders when items are due/overdue. 
